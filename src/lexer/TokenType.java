@@ -29,6 +29,7 @@ public enum TokenType {
     EQUALS_EQUALS,   // ==
     LESS_THAN_OE,    // <=
     LESS_THAN,       // <
-
+    AND,             // &&
+    OR
     
 }
